@@ -159,7 +159,7 @@ body {
 .header__contact-link:focus {
   color: #404bbf; /* Цвет при наведении и фокусе */
 }
-  /*************** section1 HEader**************** */
+  /*************** section1 **************** */
 .main-content__intro {
   display: flex;
   flex-direction: column; /* Устанавливаем вертикальное направление */
@@ -175,6 +175,8 @@ body {
   padding: 188px 0;
   max-width: 1440px;
   background-repeat: no-repeat;
+  height: 600px;
+  margin: 0 auto;
 
 }
 
